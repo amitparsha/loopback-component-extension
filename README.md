@@ -1,1 +1,1 @@
-# loopback-componnet-extension
+# loopback-component-extension
